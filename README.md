@@ -2,7 +2,9 @@
 Plugin Developed to add new user from CSV File and assign them to particular groups using a dropdown menu . We are using WordPress and LearnDash LMS for this plugin.
 Groups will be taken from Learndash LMS Plugin.
 This wordpress plugin enables us to upload csv files containing the details of users and assign them to Learndash LMS groups.
+
 ![image](https://user-images.githubusercontent.com/54396900/147044664-bee873c8-3b9a-4824-bc2a-bf25ed85b395.png)
+
 Steps to operate the plugin:
 
 Step 1:  To create new users from CSV file, the check box “Create New user when user not available” must be checked.
